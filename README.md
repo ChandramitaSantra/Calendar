@@ -49,10 +49,3 @@ You will also see any lint errors in the console.
 
 
 
-## Run E2E tests
-
-coming soon...
-
-### Author :books:
-
-[Ahmed Alatawi](https://github.com/AhmedAlatawi)
